@@ -5,3 +5,6 @@ Bios 512 HW repository
 
 ## Directory
   - B 512: In class exercises
+
+## Links
+  - [Link to NBViewer](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/tree/main/)
