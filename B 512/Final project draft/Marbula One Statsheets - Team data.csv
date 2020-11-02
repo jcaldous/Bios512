@@ -1,4 +1,4 @@
-Team,Pts,Rnk,CTP_In_Race,CTP_Weekend,CTP_Consistency,CTP_Combined,PWR_Last,PWR_Now,Av_Qual_pos,Av_Fin_pos,Str_Val,Fin_Val,R1_Qual,R1_Fin,R1_Pts,R2_Qual,R2_Fin,R2_Pts,R3_Qual,R3_Fin,R3_Pts,R4_Qual,R4_Fin,R4_Pts,R5_Qual,R5_Fin,R5_Pts,R6_Qual,R6_Fin,R6_Pts,R7_Qual,R7_Fin,R7_Pts,R8_Qual,R8_Fin,R8_Pts
+Team,Pts,Rnk,CTP_In_Race,CTP_Weekend,CTP_Consistency,CTP_Combined,PWR_Last,PWR_Now,Av_Str_pos,Av_Fin_pos,Str_Val,Fin_Val,R1_Qual,R1_Fin,R1_Pts,R2_Qual,R2_Fin,R2_Pts,R3_Qual,R3_Fin,R3_Pts,R4_Qual,R4_Fin,R4_Pts,R5_Qual,R5_Fin,R5_Pts,R6_Qual,R6_Fin,R6_Pts,R7_Qual,R7_Fin,R7_Pts,R8_Qual,R8_Fin,R8_Pts
 Savage Speeders,101,1,595,960,8.4,692,2,1,6.63,5.13,9.37,10.87,16,5,11,6,2,18,7,6,8,7,2,18,11,15,0,2,3,15,3,7,6,1,1,25
 Hazers,94,2,583,950,9.3,687,1,2,5.75,5,10.25,11,9,2,18,2,3,15,3,3,15,5,4,13,5,11,0,5,8,4,2,1,25,15,8,4
 O'Rangers,69,3,455,736,2.5,515,4,3,7.5,7.25,8.5,8.75,1,6,8,15,14,0,11,5,11,2,8,4,2,1,25,14,10,2,4,2,19,11,12,0
