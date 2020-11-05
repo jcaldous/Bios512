@@ -15,4 +15,4 @@ Important links
   - Link to my Binder:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcaldous/Bios512/main)
 - Rstudio:
-[![Binder(https://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh//jcaldous/Bios512/main?urlpath=rstudio)
+[![Binder](https://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh//jcaldous/Bios512/main?urlpath=rstudio)
