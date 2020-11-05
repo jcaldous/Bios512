@@ -8,4 +8,4 @@ texlive-latex-recommended
 texlive-publishers
 texlive-science
 texlive-xetex
-apt-install libmagick+±dev
+apt-install libmagick++±dev
