@@ -8,4 +8,4 @@ texlive-latex-recommended
 texlive-publishers
 texlive-science
 texlive-xetex
-apt-install libmagick++±dev
+sudo apt-get install r-base-dev libcurl4-openssl-dev libxml2-dev libssl-dev libmagick++-6.q16-dev
