@@ -8,8 +8,7 @@ Bios 512 HW repository
 
 ## Links
 Important links
-  - Link to My NBViewer: NBViewer:  
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/jcaldous/Bios512/tree/main/)
+  - Link to My NBViewer:[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/jcaldous/Bios512/tree/main/)
   - Link to Class NBViewer:[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/tree/main/)
   - Class Notebook Binder Launch:
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chuckpr/BIOS512/main)
